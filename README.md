@@ -21,15 +21,7 @@
   <img src="https://skillicons.dev/icons?i=java,python,html,css,js,git,github" />
 </p>
 
----
-<!-- GitHub Stats Card -->
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=naaz297&show_icons=true&count_private=true&theme=radical)
 
-<!-- Top Languages Card -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naaz297&layout=compact&theme=radical)
-
-<!-- GitHub Streak Card -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naaz297&theme=radical)
 
 
 ### 📊 GitHub Stats
