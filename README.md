@@ -22,8 +22,9 @@
 
 ---
 
-### 🏆 GitHub Achievements
-![trophy](https://github-profile-trophy.vercel.app/?username=naaz297&theme=tokyonight&margin-w=10&margin-h=10)
+## 🏆 GitHub Achievements
+
+![](https://github-profile-trophy.vercel.app/?username=naaz297&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
