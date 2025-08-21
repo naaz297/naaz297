@@ -48,5 +48,3 @@
 - 🐙 [GitHub](https://github.com/naaz297)  
 
 ---
-
-⭐ From [Naaz](https://github.com/naaz297)
