@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there 👋 I'm Naaz  
 
-<!--
-**naaz297/naaz297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate about *Java, Frontend Development, Python, and Data Structures & Algorithms (DSA)*.  
+🚀 Always exploring new technologies and improving problem-solving skills.  
+🌱 Currently focusing on *building projects* and *enhancing DSA* for placements.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Languages & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,bootstrap,cpp,git,github,mysql" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naaz297&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naaz297&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naaz297&theme=tokyonight)
+
+---
+
+### 🏆 GitHub Achievements
+![trophy](https://github-profile-trophy.vercel.app/?username=naaz297&theme=tokyonight&margin-w=10&margin-h=10)
+
+---
+
+### 🌱 Current Goals
+- Solve *DSA problems daily* to strengthen logic  
+- Build *Frontend projects* using React & Bootstrap  
+- Deepen understanding of *Java & Python*  
+- Contribute to *Open Source*  
+
+---
+
+### 📬 Connect With Me
+- 📧 Email: naazparween942@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/naaz-parween-633478319)  
+- 🐙 [GitHub](https://github.com/naaz297)  
+
+---
+
+⭐ From [Naaz](https://github.com/naaz297)
