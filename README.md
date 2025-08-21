@@ -23,7 +23,7 @@
 
 
 
-### 📊 GitHub Stats
+###                               📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naaz297&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naaz297&layout=compact&theme=tokyonight)
