@@ -1,14 +1,12 @@
-# Hi there 👋 I'm Naaz  
-
-💻 Passionate about *Java, Frontend Development, Python, and Data Structures & Algorithms (DSA)*.  
-🚀 Always exploring new technologies and improving problem-solving skills.  
-🌱 Currently focusing on *building projects* and *enhancing DSA* for placements.  
-
----
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=750&lines=Hi+there+👋+I'm+Naaz;💻+Passionate+about+Java%2C+Frontend+Development%2C+Python%2C+and+DSA;🚀+Always+exploring+new+technologies+and+improving+problem-solving+skills;🌱+Currently+focusing+on+building+projects+and+enhancing+DSA+for+placements" alt="Typing SVG" />
+  </a>
+</p>
 
 ### 🚀 Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,git,github" />
 </p>
 
 ---
@@ -23,11 +21,6 @@
 ---
 
 
-## 🏆 GitHub Achievements
-
-![](https://github-profile-trophy.vercel.app/?username=naaz297&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
 
 ### 🌱 Current Goals
 - Solve *DSA problems daily* to strengthen logic  
