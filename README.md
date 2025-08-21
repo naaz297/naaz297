@@ -8,7 +8,7 @@
 
 ### 🚀 Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,bootstrap,cpp,git,github,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,,git,github" />
 </p>
 
 ---
