@@ -1,6 +1,4 @@
-<!-- PROFILE README -->
 
-<!-- Typing SVG -->
 <div align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B+I'm+Naaz;Java+%7C+Frontend+%7C+Python+%7C+DSA;Welcome+to+my+GitHub+Profile!" 
@@ -9,8 +7,6 @@
 </div>
 
 ---
-
-<!-- Waving Hand Heading -->
 <h1 align="center">
   Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> I'm Naaz
 </h1>
@@ -21,7 +17,7 @@
 - 🔭 I’m currently working on *Full Stack Projects*
 - 🌱 I’m learning *DSA, Java, React & AI/ML*
 - 💡 Passionate about *Problem Solving & Open Source*
-- 📫 Reach me at: *your.email@example.com*
+- 📫 Reach me at: *naazparween942@gmail.com*
 
 ---
 
