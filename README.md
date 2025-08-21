@@ -20,6 +20,16 @@
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,html,css,js,git,github" />
 </p>
+# GitHub Activity
+
+## 📊 GitHub Stats (with grade)
+![Naaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naaz297&show_icons=true&theme=radical&rank_icon=true)
+
+## 📈 GitHub Statistics (Top Languages)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naaz297&layout=compact&theme=radical)
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naaz297&theme=radical)
 
 
 
