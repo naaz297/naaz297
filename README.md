@@ -21,16 +21,9 @@
   <img src="https://skillicons.dev/icons?i=java,python,html,css,js,git,github" />
 </p>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naaz297&show_icons=true&rank_icon=github&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=naaz297&theme=radical)
 
-
-###                               📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naaz297&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naaz297&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naaz297&theme=tokyonight)
-
----
 
 
 
