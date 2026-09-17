@@ -146,17 +146,24 @@ Java • Spring Boot • REST APIs
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=naaz297&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naaz297&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naaz297&theme=tokyonight" width="100%" alt="GitHub Profile Summary"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=naaz297&theme=tokyonight&hide_border=true&background=0D1117" width="70%" alt="GitHub Streak"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naaz297&theme=tokyonight" width="48%" alt="Repositories Per Language"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naaz297&theme=tokyonight" width="48%" alt="Most Commit Language"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naaz297&theme=tokyonight" width="48%" alt="GitHub Statistics"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naaz297&theme=tokyonight&utcOffset=5.5" width="48%" alt="Productive Time"/>
 
 </div>
 
