@@ -162,15 +162,6 @@ Java • Spring Boot • REST APIs
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/naaz297/naaz297/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
-
-</div>
-
----
 
 ## 🌌 Coding Philosophy
 
