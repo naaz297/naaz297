@@ -15,7 +15,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=800&color=B57CFF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%7C+Java+Developer;AI%2FML+Enthusiast+%7C+Problem+Solver;Turning+ideas+into+working+solutions..." />
+
 
 <br><br>
 
