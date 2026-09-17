@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- Animated wavy header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c6df2,100:22d3ee&height=220&section=header&text=Naaz%20Parween&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20%E2%9C%A8&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- Animated typing intro -->
 <img src="https://images.rawpixel.com/image_1100/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAzL3Jhd3BpeGVsb2ZmaWNlMjFfYV9taW5pbWFsX2FuZF9sZXNzX2RldGFpbF9pbGx1c3RyYXRpb25fb2ZfdGhlX18wZGNhYzJhYi0zNmY3LTQyMTUtOTg1OS0yNmQwZGM2OGQ5MTMuanBn.jpg" />
