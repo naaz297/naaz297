@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c6df2,100:22d3ee&height=220&section=header&text=Naaz%20Parween&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20%E2%9C%A8&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- Animated typing intro -->
-<img src="https://i.pinimg.com/736x/39/73/cf/3973cf7a03ca75b190378df1a5ecace9.jpg" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Naaz+Parween+%F0%9F%91%8B;Full+Stack+Developer+%7C+Java+Developer;AI%2FML+Enthusiast+%7C+Problem+Solver;Building+Ideas+Into+Reality+With+Code..." />
 
 </div>
 
@@ -58,12 +58,12 @@
 
 ## `> QUICK_PEEK`
 
-\`\`\`yaml
+```yaml
 name: Naaz Parween
 education: B.Tech CSE @ Aliah University
 internship: AI/ML @ ISI Kolkata
 focus: Java | Full Stack | AI/ML
-\`\`\`
+```
 
 ---
 
@@ -100,26 +100,10 @@ focus: Java | Full Stack | AI/ML
 <div align="center">
 
 <!-- Replace # with your actual links -->
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-](#)
-[
-
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-](#)
-[
-
-![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-](#)
-[
-
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
 </div>
 
@@ -131,11 +115,7 @@ focus: Java | Full Stack | AI/ML
 
 <br>
 
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=naazparween&color=blueviolet&style=flat)
-
-
 
 <!-- Animated wavy footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:7c6df2&height=120&section=footer" width="100%"/>
