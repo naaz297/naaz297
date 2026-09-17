@@ -1,151 +1,294 @@
-<div align="center">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Naaz Parween — Profile Banner</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap');
 
+  :root{
+    --bg: #060a14;
+    --bg2: #0a0f1e;
+    --panel: #0d1324;
+    --panel-border: #1c2740;
+    --purple: #a78bfa;
+    --purple2: #7c6df2;
+    --blue: #60a5fa;
+    --cyan: #22d3ee;
+    --orange: #f5a35c;
+    --pink: #f472b6;
+    --green: #4ade80;
+    --text: #e6ebf5;
+    --dim: #7c8aa8;
+  }
 
-<br>
+  *{ box-sizing:border-box; margin:0; padding:0; }
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=00F7FF&center=true&vCenter=true&width=650&lines=%3E+naaz%40github%3A~%24+whoami;I+am+Naaz+Parween;Full+Stack+Developer+%7C+Java+Developer;AI%2FML+Enthusiast+%7C+Problem+Solver;Building+ideas+into+reality+with+code..." alt="Typing SVG" />
+  body{
+    background: radial-gradient(circle at 80% 0%, #14203a 0%, var(--bg) 45%), var(--bg);
+    font-family: 'Fira Code', monospace;
+    color: var(--text);
+    padding: 40px;
+  }
 
-<br>
+  .banner{
+    max-width: 1400px;
+    margin: 0 auto;
+    background: linear-gradient(180deg, var(--bg2) 0%, var(--bg) 100%);
+    border: 1px solid var(--panel-border);
+    border-radius: 18px;
+    padding: 36px 44px 30px;
+    position: relative;
+    overflow: hidden;
+  }
 
-`< fullstack dev | java developer | ai/ml enthusiast />`
+  .dots{ display:flex; gap:8px; margin-bottom: 22px; }
+  .dot{ width:11px; height:11px; border-radius:50%; }
+  .dot.r{ background:#ff5f57; } .dot.y{ background:#febc2e; } .dot.g{ background:#28c840; }
+
+  .whoami{ color: var(--dim); font-size: 14px; margin-bottom: 26px; }
+  .whoami span{ color: var(--cyan); }
+
+  .hero{ display:flex; justify-content:space-between; gap: 40px; }
+  .hero-left{ flex: 1.3; min-width: 320px; }
+  .hero-right{ flex: 1; display:flex; align-items:flex-start; justify-content:flex-end; position:relative; min-height: 260px; }
+
+  .iam{ font-family:'Space Grotesk', sans-serif; font-size: 30px; color:#fff; font-weight:600; margin-bottom: 6px;}
+
+  .name{
+    font-family:'Space Grotesk', sans-serif;
+    font-size: 62px;
+    font-weight: 700;
+    line-height: 1.05;
+    background: linear-gradient(90deg, var(--purple2), var(--blue));
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    display:inline-block;
+    margin-bottom: 18px;
+  }
+
+  .wave{
+    font-size: 40px; margin-left: 10px;
+    display: inline-block;
+    transform-origin: 70% 70%;
+    animation: wave-hand 2.2s ease-in-out infinite;
+  }
+  @keyframes wave-hand{
+    0%   { transform: rotate(0deg); }
+    10%  { transform: rotate(18deg); }
+    20%  { transform: rotate(-8deg); }
+    30%  { transform: rotate(18deg); }
+    40%  { transform: rotate(-8deg); }
+    50%  { transform: rotate(10deg); }
+    60%  { transform: rotate(0deg); }
+    100% { transform: rotate(0deg); }
+  }
+
+  .welcome{
+    color: var(--dim);
+    font-size: 16px;
+    margin-bottom: 14px;
+    letter-spacing: 0.3px;
+  }
+  .welcome b{ color: #fff; font-weight: 500; }
+
+  .roles{ color: var(--cyan); font-size: 17px; margin-bottom: 18px; letter-spacing: 0.3px; }
+  .roles b{ color: var(--cyan); font-weight: 500; }
+  .roles .sep{ color: var(--dim); margin: 0 10px; }
+
+  .tagline{ color: var(--blue); font-size: 16px; }
+  .tagline .cur{ display:inline-block; width:9px; height:18px; background:var(--blue); margin-left:4px; vertical-align:-3px; animation: blink 1s steps(1) infinite; }
+  @keyframes blink{ 50%{opacity:0;} }
+
+  .illustration{ width: 340px; height: 260px; position: relative; }
+  .note{
+    position:absolute; top:-6px; right:10px;
+    font-family:'Space Grotesk', sans-serif; font-style: italic;
+    color:#d9dfef; font-size: 13px; text-align:center; line-height:1.3;
+    transform: rotate(-4deg);
+  }
+  .note::after{ content:"♥"; color: var(--pink); display:block; font-style:normal; }
+
+  .sticky{
+    position:absolute; width:150px; padding:12px 14px;
+    background: var(--panel); border:1px solid var(--panel-border);
+    border-radius:10px; font-size:12px; color:var(--blue); line-height:1.7;
+  }
+  .sticky.top{ top: 20px; left: 0; }
+  .sticky.top div:first-child{ color: var(--dim); margin-bottom:2px; }
+
+  .codeicon{
+    position:absolute; top: 92px; left: 20px;
+    width:78px; height:78px; border-radius:10px;
+    background: var(--panel); border:1px solid var(--panel-border);
+    display:flex; align-items:center; justify-content:center;
+    color: var(--purple); font-size:22px; font-weight:600;
+  }
+
+  .avatar{
+    position:absolute; bottom:0; right:0;
+    width: 250px; height: 190px;
+    background: linear-gradient(160deg, #1a2340, #0b1024);
+    border-radius: 14px 14px 60px 14px;
+    border: 1px solid var(--panel-border);
+    display:flex; align-items:center; justify-content:center;
+    color: var(--dim); font-size:13px; text-align:center; padding:14px;
+  }
+
+  .heart{ position:absolute; bottom: 210px; right: 40px; color: var(--pink); font-size: 26px; }
+
+  .cards{ display:flex; gap: 22px; margin-top: 38px; }
+  .card{ flex:1; background: var(--panel); border:1px solid var(--panel-border); border-radius: 14px; padding: 22px 24px; }
+  .card h3{ font-family:'Space Grotesk', sans-serif; font-size:17px; font-weight:600; display:flex; align-items:center; gap:10px; margin-bottom: 10px; }
+  .card h3 .arrow{ color: var(--dim); font-weight:400; margin-left:auto; }
+  .card p{ color:#c3cbe0; font-size: 13.5px; line-height:1.5; margin-bottom: 10px; }
+  .card .snippet{ color: var(--dim); font-size: 12.5px; margin-bottom: 16px; }
+  .pills{ display:flex; flex-wrap:wrap; gap:8px; }
+  .pill{ font-size: 12px; padding: 5px 12px; border-radius: 20px; border:1px solid; }
+
+  .c1 h3{ color: var(--cyan); } .c2 h3{ color: var(--orange); } .c3 h3{ color: var(--purple); }
+
+  .pill.blue{ color:var(--blue); border-color: rgba(96,165,250,0.4); background: rgba(96,165,250,0.08);}
+  .pill.cyan{ color:var(--cyan); border-color: rgba(34,211,238,0.4); background: rgba(34,211,238,0.08);}
+  .pill.green{ color:var(--green); border-color: rgba(74,222,128,0.4); background: rgba(74,222,128,0.08);}
+  .pill.purple{ color:var(--purple); border-color: rgba(167,139,250,0.4); background: rgba(167,139,250,0.08);}
+  .pill.orange{ color:var(--orange); border-color: rgba(245,163,92,0.4); background: rgba(245,163,92,0.08);}
+  .pill.pink{ color:var(--pink); border-color: rgba(244,114,182,0.4); background: rgba(244,114,182,0.08);}
+
+  .bottom{ display:flex; gap:22px; margin-top: 22px; }
+  .panel{ background: var(--panel); border:1px solid var(--panel-border); border-radius: 14px; padding: 22px 26px; }
+  .panel h4{ font-family:'Space Grotesk', sans-serif; font-size:16px; font-weight:600; display:flex; align-items:center; gap:10px; margin-bottom: 16px; }
+  .panel.quick{ flex: 1; } .panel.quick h4{ color: var(--green); }
+  .quick ul{ list-style:none; }
+  .quick li{ display:flex; gap:10px; font-size: 13.5px; color:#c3cbe0; padding: 6px 0; }
+
+  .panel.projects{ flex: 1.3; } .panel.projects h4{ color: var(--blue); }
+  .proj{ display:flex; justify-content:space-between; align-items:center; padding: 12px 0; border-top: 1px solid var(--panel-border); }
+  .proj:first-of-type{ border-top:none; }
+  .proj-title{ font-size: 14.5px; color:#fff; margin-bottom:4px; }
+  .proj-tags{ font-size: 12px; color: var(--dim); }
+  .proj-arrow{ color: var(--dim); }
+
+  .panel.code{ flex: 1; }
+  .code-body{ font-size: 13px; line-height: 1.7; }
+  .kw{ color: var(--pink); } .str{ color: var(--green); } .fn{ color: var(--blue); }
+
+  .footer{ text-align:center; margin-top: 40px; }
+  .footer .thanks{ font-family:'Space Grotesk', sans-serif; font-style: italic; color: var(--purple); font-size: 22px; }
+  .footer .sub{ color: var(--dim); font-size: 13px; margin-top: 10px; letter-spacing: 1px; }
+  .footer .sub .dot{ color: var(--purple); margin: 0 10px; }
+</style>
+</head>
+<body>
+
+<div class="banner">
+
+  <div class="dots"><span class="dot r"></span><span class="dot y"></span><span class="dot g"></span></div>
+  <div class="whoami">naaz@github:~$ <span>whoami</span></div>
+
+  <div class="hero">
+    <div class="hero-left">
+      <div class="iam">Hi, I am<span class="wave">👋</span></div>
+      <div class="name">Naaz Parween</div>
+      <div class="welcome">Welcome to <b>my GitHub</b> ✨</div>
+      <div class="roles">&lt; <b>fullstack dev</b> <span class="sep">|</span> <b>java developer</b> <span class="sep">|</span> <b>ai/ml enthusiast</b> /&gt;</div>
+      <div class="tagline">Building ideas into reality with code...<span class="cur"></span></div>
+    </div>
+
+    <div class="hero-right">
+      <div class="illustration">
+        <div class="note">just a girl<br>who loves<br>code</div>
+        <div class="sticky top"><div>Better Code</div><div>Better Tomorrow ♥</div></div>
+        <div class="codeicon">&lt;/&gt;</div>
+        <div class="heart">♥</div>
+        <div class="avatar">// coding by lamplight<br>with a cat nearby 🐱</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="cards">
+    <div class="card c1">
+      <h3><span class="icon">🌐</span> Full Stack Development <span class="arrow">→</span></h3>
+      <p>From ideas to interactive web applications.</p>
+      <div class="snippet">&lt; frontend + backend + databases /&gt;</div>
+      <div class="pills">
+        <span class="pill blue">React</span>
+        <span class="pill cyan">Node.js</span>
+        <span class="pill green">MongoDB</span>
+        <span class="pill purple">Tailwind</span>
+      </div>
+    </div>
+    <div class="card c2">
+      <h3><span class="icon">☕</span> Java Developer <span class="arrow">→</span></h3>
+      <p>Building scalable and reliable applications.</p>
+      <div class="snippet">&lt; write • build • solve /&gt;</div>
+      <div class="pills">
+        <span class="pill orange">Java</span>
+        <span class="pill blue">Spring Boot</span>
+        <span class="pill cyan">REST APIs</span>
+      </div>
+    </div>
+    <div class="card c3">
+      <h3><span class="icon">🧠</span> AI / ML Enthusiast <span class="arrow">→</span></h3>
+      <p>Exploring data, models, and intelligent solutions.</p>
+      <div class="snippet">&lt; learn • experiment • grow /&gt;</div>
+      <div class="pills">
+        <span class="pill purple">Python</span>
+        <span class="pill blue">NLP</span>
+        <span class="pill cyan">Computer Vision</span>
+        <span class="pill pink">ML</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="bottom">
+    <div class="panel quick">
+      <h4>&gt;_ Quick Peek</h4>
+      <ul>
+        <li>🎓 B.Tech CSE @ Aliah University</li>
+        <li>🚀 AI/ML Intern @ ISI, Kolkata</li>
+        <li>💡 Learning Java, Spring Boot, React &amp; DSA</li>
+        <li>🏆 SIH 2025 Team Leader</li>
+        <li>⭐ Hacktoberfest 2024 Participant</li>
+      </ul>
+    </div>
+
+    <div class="panel projects">
+      <h4>📁 Featured Projects</h4>
+      <div class="proj">
+        <div><div class="proj-title">Patient Care Video Analytics</div><div class="proj-tags">Python • Computer Vision</div></div>
+        <div class="proj-arrow">→</div>
+      </div>
+      <div class="proj">
+        <div><div class="proj-title">AI Resume Job Analyzer</div><div class="proj-tags">Python • NLP • Streamlit</div></div>
+        <div class="proj-arrow">→</div>
+      </div>
+      <div class="proj">
+        <div><div class="proj-title">AgriCarbon MRV</div><div class="proj-tags">React • TypeScript • Tailwind</div></div>
+        <div class="proj-arrow">→</div>
+      </div>
+    </div>
+
+    <div class="panel code">
+      <div class="dots"><span class="dot r"></span><span class="dot y"></span><span class="dot g"></span></div>
+      <div class="code-body">
+        <span class="kw">const</span> goals = [<br>
+        &nbsp;&nbsp;<span class="str">"Build amazing projects"</span>,<br>
+        &nbsp;&nbsp;<span class="str">"Keep learning"</span>,<br>
+        &nbsp;&nbsp;<span class="str">"Create positive impact"</span><br>
+        ];<br><br>
+        <span class="fn">console</span>.log(<span class="str">"On it... 🚀"</span>);
+      </div>
+    </div>
+  </div>
+
+  <div class="footer">
+    <div class="thanks">&gt; Thank you for visiting! ♥</div>
+    <div class="sub">Keep coding <span class="dot">•</span> Keep growing <span class="dot">•</span> Always ♥</div>
+  </div>
 
 </div>
 
----
-
-<div align="center">
-
-## `> MY_DOMAINS`
-
-</div>
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🌐 Full Stack Development →
-
-From ideas to interactive web applications.
-
-`< frontend + backend + databases />`
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-</td>
-<td align="center" width="33%">
-
-### ☕ Java Developer →
-
-Building scalable and reliable applications.
-
-`< write • build • solve />`
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat&logo=fastapi&logoColor=white)
-
-</td>
-<td align="center" width="33%">
-
-### 🧠 AI / ML Enthusiast →
-
-Exploring data, models, and intelligent solutions.
-
-`< learn • experiment • grow />`
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF4500?style=flat)
-![ML](https://img.shields.io/badge/ML-FF69B4?style=flat)
-
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### `>_` Quick Peek
-
-- 🎓 B.Tech CSE @ Aliah University
-- 🚀 AI/ML Intern @ ISI, Kolkata
-- 💡 Learning Java, Spring Boot, React & DSA
-- 🏆 SIH 2025 Team Leader
-- ⭐ Hacktoberfest 2024 Participant
-
-</td>
-<td width="50%" valign="top">
-
-### 📂 Featured Projects
-
-**🎥 Patient Care Video Analytics**
-`Python` · `Computer Vision`
-
-**📄 AI Resume Job Analyzer**
-`Python` · `NLP` · `Streamlit`
-[Live Demo ↗](https://resumejobanalyzerpygit-bjcfjdogaxn2r27scfysoo.streamlit.app/)
-
-**🌱 AgriCarbon MRV**
-`React` · `TypeScript` · `Tailwind`
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-```js
-const goals = [
-  "Build amazing projects",
-  "Keep learning",
-  "Create positive impact"
-];
-
-console.log("On it... 🚀");
-```
-
-</div>
-
----
-
-## `> ACHIEVEMENTS`
-
-🏆 Smart India Hackathon 2025 — Team Leader
-🌍 Hacktoberfest 2024 Participant
-💻 250+ LeetCode · 150+ GFG
-
----
-
-## `> CONNECT_WITH_ME`
-
-<div align="center">
-
-<!-- Replace # with your actual links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
-
-</div>
-
----
-
-<div align="center">
-
-> _Keep coding · Keep growing · Always ♥_
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=FF69B4&center=true&vCenter=true&width=650&lines=Thank+you+for+visiting+my+profile!+💜;Keep+Coding+%7C+Keep+Growing+%7C+Keep+Building+🚀;See+you+in+the+next+commit...+👋" alt="Footer Typing SVG" />
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=naazparween&color=blueviolet&style=flat)
-
-</div>
+</body>
+</html>
