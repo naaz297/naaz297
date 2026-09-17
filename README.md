@@ -1,80 +1,61 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Naaz Parween
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
-### Java Developer | AI/ML | Full Stack Development
+# Hi, I'm Naaz Parween 👋
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Java+%7C+Python+%7C+AI%2FML;Building+Projects+%26+Solving+Problems;Welcome+to+my+GitHub!+🚀" />
-</p>
+**Java Developer | AI/ML Enthusiast | Full Stack Developer**
 
-<a href="https://github.com/naaz297">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-</a>
-<a href="https://www.linkedin.com/in/naaz-parween-633478319">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
+*Building ideas into reality with code.*
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-naaz297-black?style=flat-square&logo=github)](https://github.com/naaz297)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/naaz-parween-633478319)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+### 👩‍💻 About Me
 
-- 🎓 B.Tech CSE Student at Aliah University
-- 🤖 AI/ML Intern at ISI, Kolkata
-- 💻 Learning Java, Spring Boot, React & DSA
-- 🚀 Building AI/ML and Full Stack Projects
-- 🏆 SIH 2025 Team Leader
+🎓 B.Tech CSE @ Aliah University
+
+🤖 AI/ML Intern @ ISI Kolkata
+
+💻 Java • Python • DSA • React
+
+🚀 Building meaningful projects & learning every day.
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,react,spring,mysql,mongodb,git,github" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,js,react,spring,mysql,git,github" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
-| Project | Tech |
-|---|---|
-| 🎥 Patient Care Video Analytics | Python, Computer Vision |
-| 📄 AI Resume Job Analyzer | Python, NLP, Streamlit |
-| 🌱 AgriCarbon MRV | React, TypeScript, Tailwind |
+**🎥 Patient Care Video Analytics**
 
-🔗 [AI Resume Job Analyzer – Live Demo](https://resumejobanalyzerpygit-bjcfjdogaxn2r27scfysoo.streamlit.app/)
+> Computer Vision • Python • Video Processing
 
----
+**📄 AI Resume Job Analyzer**
 
-## 🏆 Achievements
+> Python • NLP • TF-IDF • Streamlit
 
-- 🏆 Smart India Hackathon 2025 – Team Leader
-- 🌍 Hacktoberfest 2024 Participant
-- 💻 250+ LeetCode Problems
-- 💻 150+ GeeksforGeeks Problems
+**🌱 AgriCarbon MRV**
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=naaz297&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naaz297&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-
-</div>
+> React • TypeScript • Tailwind CSS
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
-
-📫 **Let's Connect:** naazparween942@gmail.com
+### 💙 Thanks for visiting!
 
 </div>
