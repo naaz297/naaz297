@@ -1,61 +1,90 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+<br>
 
-# Hi, I'm Naaz Parween 👋
+# 𓆩 Hi, I'm Naaz Parween 𓆪
 
-**Java Developer | AI/ML Enthusiast | Full Stack Developer**
+### Turning curiosity into code ✦
 
-*Building ideas into reality with code.*
+*Java Developer • AI/ML • Full Stack*
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-naaz297-black?style=flat-square&logo=github)](https://github.com/naaz297)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/naaz-parween-633478319)
+[ GitHub ](https://github.com/naaz297) ·
+[ LinkedIn ](https://www.linkedin.com/in/naaz-parween-633478319)
 
 </div>
 
 ---
 
-### 👩‍💻 About Me
+### ✦ A little about me
 
-🎓 B.Tech CSE @ Aliah University
-
-🤖 AI/ML Intern @ ISI Kolkata
-
-💻 Java • Python • DSA • React
-
-🚀 Building meaningful projects & learning every day.
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,js,react,spring,mysql,git,github" />
-</p>
+```yaml
+name: Naaz Parween
+education: B.Tech CSE @ Aliah University
+currently:
+  - AI/ML Intern @ ISI Kolkata
+  - Learning Java & Spring Boot
+  - Exploring AI/ML and Full Stack Development
+mindset: Learn something new. Build something useful.
+```
 
 ---
 
-### 🚀 Featured Projects
+### ⌁ Things I enjoy building
 
-**🎥 Patient Care Video Analytics**
+<div align="center">
 
-> Computer Vision • Python • Video Processing
+| 🧠 AI / ML | ☕ Java | 🌐 Web |
+|:---:|:---:|:---:|
+| Computer Vision | Spring Boot | React |
+| NLP | REST APIs | TypeScript |
 
-**📄 AI Resume Job Analyzer**
+</div>
 
-> Python • NLP • TF-IDF • Streamlit
+---
 
-**🌱 AgriCarbon MRV**
+### ✧ Selected work
 
-> React • TypeScript • Tailwind CSS
+**01 — Patient Care Video Analytics**
+
+> Computer Vision · Python · Video Processing
+
+**02 — AI Resume Job Analyzer**
+
+> NLP · TF-IDF · Streamlit
+
+**03 — AgriCarbon MRV**
+
+> React · TypeScript · Tailwind CSS
+
+---
+
+### ☁️ Beyond the code
+
+🏆 Smart India Hackathon 2025 — Team Leader
+
+🌍 Hacktoberfest 2024 Participant
+
+🧩 250+ LeetCode · 150+ GFG
 
 ---
 
 <div align="center">
 
-### 💙 Thanks for visiting!
+### Let's connect & create something meaningful. ✦
+
+<a href="mailto:naazparween942@gmail.com">
+  📩 Email
+</a>
+&nbsp; • &nbsp;
+<a href="https://github.com/naaz297">
+  🐙 GitHub
+</a>
+
+<br><br>
+
+<sub>Made with curiosity & lots of ☕</sub>
 
 </div>
