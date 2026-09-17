@@ -3,7 +3,7 @@
 <!-- Animated GIF -->
 <img src="https://i.imgflip.com/9rfpor.gif"
      width="80%"
-     height="220"
+     height="500"
      alt="Animated GIF"/>
 
 <br/><br/>
