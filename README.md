@@ -146,26 +146,31 @@ Java • Spring Boot • REST APIs
 
 ---
 
-
 ## 📊 GitHub Analytics
 
 <div align="center">
+
+<!-- Profile Summary Animation -->
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naaz297&theme=tokyonight" width="100%" alt="GitHub Profile Summary"/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naaz297&theme=tokyonight" width="48%" alt="Repositories Per Language"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naaz297&theme=tokyonight" width="48%" alt="Most Commit Language"/>
-
-<br/><br/>
+<!-- Stats Cards -->
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naaz297&theme=tokyonight" width="48%" alt="GitHub Statistics"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naaz297&theme=tokyonight&utcOffset=5.5" width="48%" alt="Productive Time"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naaz297&theme=tokyonight" width="48%" alt="Repositories Per Language"/>
+
+<br/><br/>
+
+<!-- Animated Contribution Graph -->
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=naaz297&bg_color=0D1117&color=00F7FF&line=B57CFF&point=FF79C6&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
 
 </div>
+
+---
 
 ---
 
