@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c6df2,100:22d3ee&height=220&section=header&text=Naaz%20Parween&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20%E2%9C%A8&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- Animated typing intro -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Naaz+Parween+%F0%9F%91%8B;Full+Stack+Developer+%7C+Java+Developer;AI%2FML+Enthusiast+%7C+Problem+Solver;Building+Ideas+Into+Reality+With+Code..." />
+<img src="https://i.pinimg.com/736x/39/73/cf/3973cf7a03ca75b190378df1a5ecace9.jpg" />
 
 </div>
 
