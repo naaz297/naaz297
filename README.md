@@ -11,15 +11,14 @@
 
 ---
 
+
 <div align="center">
 
-## 💻 `> WHO_AM_I`
-
-</div>
+<h2>💻 <code>whoami</code></h2>
 
 <table>
 <tr>
-<td width="100%">
+<td>
 
 ```text
 naaz@github:~$ whoami
@@ -35,9 +34,11 @@ Building ideas into reality with code... 💻✨
 </tr>
 </table>
 
----
+<br>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=B57CFF&center=true&vCenter=true&width=600&lines=Learning+%7C+Building+%7C+Growing;One+commit+at+a+time+💜" />
+
+</div>
 
 ## ⚡ `> MY_DOMAINS_♡`
 
