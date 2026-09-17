@@ -14,29 +14,19 @@
 
 <div align="center">
 
-<h2>💻 <code>whoami</code></h2>
-
-<table>
-<tr>
-<td>
-
-```text
-naaz@github:~$ whoami
-
-> I am Naaz Parween 👋
-
-< fullstack dev | java developer | ai/ml enthusiast />
-
-Building ideas into reality with code... 💻✨
-```
-
-</td>
-</tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=💻+%3E+WHO_AM_I" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=B57CFF&center=true&vCenter=true&width=600&lines=Learning+%7C+Building+%7C+Growing;One+commit+at+a+time+💜" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=%3E+I+am+Naaz+Parween+👋" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3500&pause=1000&color=B57CFF&center=true&vCenter=true&width=850&lines=%3C+fullstack+dev+%7C+java+developer+%7C+ai%2Fml+enthusiast+%2F%3E" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+ideas+into+reality+with+code...+💻✨" />
+
+<br>
+
+<sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
 
 </div>
 
