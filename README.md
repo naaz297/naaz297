@@ -170,77 +170,32 @@ Java • Spring Boot • REST APIs
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naaz297&theme=tokyonight" width="48%" alt="Repositories Per Language"/>
 
 <br/><br/>
-
-
-
-</div>
-
----
-
----
-
-
-
 ## 🌌 Coding Philosophy
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=B57CFF&center=true&vCenter=true&width=750&lines=Think+%E2%86%92+Code+%E2%86%92+Debug+%E2%86%92+Improve;Every+Bug+Is+Another+Lesson;Consistency+Builds+Great+Developers+%F0%9F%92%9C"
-     width="100%"
-     alt="Coding Philosophy"/>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="80%"/>
-
-<br/>
-
-### 💜 `while (learning) { keepCoding(); }`
-
-<blockquote>
-  <p>
-    ✨ <b>Think.</b> Build. Break. Debug. Improve.<br/>
-    🚀 Every bug is a step closer to mastery.<br/>
-    🌱 Consistency today, excellence tomorrow.
-  </p>
-</blockquote>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Ideas+Into+Reality+%F0%9F%92%9C;Learning+Something+New+Every+Day+%F0%9F%9A%80"
-     width="100%"
-     alt="Learning Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=B57CFF&center=true&vCenter=true&width=700&lines=Think+%E2%86%92+Code+%E2%86%92+Debug+%E2%86%92+Improve;Every+Bug+Is+Another+Lesson;Consistency+Builds+Great+Developers+%F0%9F%92%9C" width="100%" alt="Coding Philosophy"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="80%"/>
-
-<br/>
-
-<b>✨ Thanks for visiting my profile! ✨</b>
-
-<br/><br/>
+**Thanks for visiting my profile!**
 
 ⭐ Explore my repositories and projects.
 
-<br/><br/>
+<br/>
 
-<a href="mailto:naazparween942@gmail.com">
-  <img src="https://img.shields.io/badge/📩_Contact_Me-B57CFF?style=for-the-badge&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/naaz297">
-  <img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/naaz-parween-633478319">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logoColor=white"/>
-</a>
+<a href="mailto:naazparween942@gmail.com">📩 Contact Me</a>
+&nbsp; • &nbsp;
+<a href="https://github.com/naaz297">🐙 GitHub</a>
+&nbsp; • &nbsp;
+<a href="https://www.linkedin.com/in/naaz-parween-633478319">💼 LinkedIn</a> 
 
-<br/><br/>
-
-<sub>💻 Code with passion • Learn with consistency • Grow with purpose</sub>
 
 </div>
 
-</div>
+---
+
+---
+
+
+
