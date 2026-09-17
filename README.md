@@ -2,7 +2,8 @@
 
 <!-- Animated GIF -->
 <img src="https://i.imgflip.com/9rfpor.gif"
-     width="80%"
+     width="100%"
+     height="220"
      alt="Animated GIF"/>
 
 <br/><br/>
