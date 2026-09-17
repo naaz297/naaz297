@@ -1,24 +1,13 @@
-
 <div align="center">
 
-<img src="./banner.png" width="100%">
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=B57CFF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Naaz+Parween+👋;I+turn+ideas+into+code+%3C3;Full+Stack+Developer+%7C+Java+%7C+AI%2FML;Always+learning.+Always+building.+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=00F7FF&center=true&vCenter=true&width=650&lines=%3E+naaz%40github%3A~%24+whoami;I+am+Naaz+Parween;Full+Stack+Developer+%7C+Java+Developer;AI%2FML+Enthusiast+%7C+Problem+Solver;Building+ideas+into+reality+with+code..." alt="Typing SVG" />
 
 <br>
 
-<em>Code • Create • Innovate</em>
-
-<br><br>
-
-<a href="https://github.com/naaz297">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://www.linkedin.com/in/naaz-parween-633478319">
-<img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+`< fullstack dev | java developer | ai/ml enthusiast />`
 
 </div>
 
@@ -26,37 +15,7 @@
 
 <div align="center">
 
-## ✦ `WHO_AM_I`
-
-</div>
-
-```javascript
-const naaz = {
-  name: "Naaz Parween",
-  education: "B.Tech CSE @ Aliah University",
-  role: "Developer & AI/ML Enthusiast",
-
-  domains: [
-    "Full Stack Development",
-    "Java Development",
-    "AI / ML"
-  ],
-
-  currentlyLearning: [
-    "Java & Spring Boot",
-    "DSA",
-    "React"
-  ],
-
-  motto: "Learn. Build. Repeat. 💜"
-};
-```
-
----
-
-<div align="center">
-
-## ⚡ `MY_DOMAINS`
+## `> MY_DOMAINS`
 
 </div>
 
@@ -64,47 +23,76 @@ const naaz = {
 <tr>
 <td align="center" width="33%">
 
-### 🌐
+### 🌐 Full Stack Development →
 
-<h3>FULL STACK</h3>
+From ideas to interactive web applications.
 
-<sub>Development</sub>
+`< frontend + backend + databases />`
 
-<br><br>
-
-`React` · `REST APIs`
-
-`Spring Boot` · `JavaScript`
-
-</td>
-<td align="center" width="33%">
-
-### ☕
-
-<h3>JAVA</h3>
-
-<sub>Developer</sub>
-
-<br><br>
-
-`Java` · `OOP`
-
-`DSA` · `Spring Boot`
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 </td>
 <td align="center" width="33%">
 
-### 🧠
+### ☕ Java Developer →
 
-<h3>AI / ML</h3>
+Building scalable and reliable applications.
 
-<sub>Enthusiast</sub>
+`< write • build • solve />`
 
-<br><br>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat&logo=fastapi&logoColor=white)
 
-`Python` · `NLP`
+</td>
+<td align="center" width="33%">
 
-`Computer Vision` · `ML`
+### 🧠 AI / ML Enthusiast →
+
+Exploring data, models, and intelligent solutions.
+
+`< learn • experiment • grow />`
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF4500?style=flat)
+![ML](https://img.shields.io/badge/ML-FF69B4?style=flat)
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `>_` Quick Peek
+
+- 🎓 B.Tech CSE @ Aliah University
+- 🚀 AI/ML Intern @ ISI, Kolkata
+- 💡 Learning Java, Spring Boot, React & DSA
+- 🏆 SIH 2025 Team Leader
+- ⭐ Hacktoberfest 2024 Participant
+
+</td>
+<td width="50%" valign="top">
+
+### 📂 Featured Projects
+
+**🎥 Patient Care Video Analytics**
+`Python` · `Computer Vision`
+
+**📄 AI Resume Job Analyzer**
+`Python` · `NLP` · `Streamlit`
+[Live Demo ↗](https://resumejobanalyzerpygit-bjcfjdogaxn2r27scfysoo.streamlit.app/)
+
+**🌱 AgriCarbon MRV**
+`React` · `TypeScript` · `Tailwind`
 
 </td>
 </tr>
@@ -114,70 +102,50 @@ const naaz = {
 
 <div align="center">
 
-## 🚀 `FEATURED_WORK`
+```js
+const goals = [
+  "Build amazing projects",
+  "Keep learning",
+  "Create positive impact"
+];
+
+console.log("On it... 🚀");
+```
 
 </div>
 
-### 🎥 Patient Care Video Analytics
-
-```text
-Python • Computer Vision • Video Processing
-```
-
-> Detecting caregiver activities and generating concise video summaries.
-
-### 📄 AI Resume Job Analyzer
-
-```text
-Python • NLP • TF-IDF • Streamlit
-```
-
-> Analyzing resume-job similarity and matching relevant skills.
-
-<a href="https://resumejobanalyzerpygit-bjcfjdogaxn2r27scfysoo.streamlit.app/">
-<img src="https://img.shields.io/badge/Live_Demo-Visit-9B5DE5?style=for-the-badge"/>
-</a>
-
-### 🌱 AgriCarbon MRV
-
-```text
-React • TypeScript • Tailwind CSS
-```
-
-> Agricultural carbon monitoring, reporting and verification platform.
-
 ---
 
-<div align="center">
-
-## 🏆 `ACHIEVEMENTS`
+## `> ACHIEVEMENTS`
 
 🏆 Smart India Hackathon 2025 — Team Leader
-
 🌍 Hacktoberfest 2024 Participant
-
 💻 250+ LeetCode · 150+ GFG
 
+---
+
+## `> CONNECT_WITH_ME`
+
+<div align="center">
+
+<!-- Replace # with your actual links -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+
 </div>
 
 ---
 
 <div align="center">
 
-## 💻 `TECH_STACK`
+> _Keep coding · Keep growing · Always ♥_
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,react,spring,mysql,mongodb,git,github" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=FF69B4&center=true&vCenter=true&width=650&lines=Thank+you+for+visiting+my+profile!+💜;Keep+Coding+%7C+Keep+Growing+%7C+Keep+Building+🚀;See+you+in+the+next+commit...+👋" alt="Footer Typing SVG" />
 
-</div>
+<br>
 
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&width=700&lines=Thank+you+for+visiting+my+profile!+💜;Keep+coding.+Keep+creating.+🚀;See+you+in+the+next+commit...+👋" />
-
-<br><br>
-
-<sub>Made with curiosity, creativity & code ♡</sub>
+![Profile Views](https://komarev.com/ghpvc/?username=naazparween&color=blueviolet&style=flat)
 
 </div>
