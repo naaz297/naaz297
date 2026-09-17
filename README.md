@@ -31,8 +31,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=naaz297&label=Profile%20Views&color=00F7FF&style=flat"
-     alt="Profile Views"/>
 
 </div>
 
