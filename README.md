@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=00F7FF&center=true&vCenter=true&width=650&lines=%3E+naaz%40github%3A~%24+whoami;I+am+Naaz+Parween;Full+Stack+Developer+%7C+Java+Developer;AI%2FML+Enthusiast+%7C+Problem+Solver;Building+ideas+into+reality+with+code..." alt="Typing SVG" />
+<img src="https://i.pinimg.com/736x/39/73/cf/3973cf7a03ca75b190378df1a5ecace9.jpg" />
 
 <br>
 
