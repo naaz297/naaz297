@@ -1,11 +1,95 @@
+
 <div align="center">
 
+<img src="./banner.png" width="100%">
 
-<!-- Animated typing intro -->
-<img src="https://images.rawpixel.com/image_1100/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAzL3Jhd3BpeGVsb2ZmaWNlMjFfYV9taW5pbWFsX2FuZF9sZXNzX2RldGFpbF9pbGx1c3RyYXRpb25fb2ZfdGhlX18wZGNhYzJhYi0zNmY3LTQyMTUtOTg1OS0yNmQwZGM2OGQ5MTMuanBn.jpg" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=B57CFF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Naaz+Parween+👋;Welcome+to+my+little+coding+world+💜;Code+%7C+Learn+%7C+Build+%7C+Grow" />
 
 </div>
 
+---
+
+<div align="center">
+
+## `> MY_DOMAINS_♡`
+
+<sub>// where passion meets technology</sub>
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🌐
+
+**FULL STACK**
+
+`React` · `JavaScript`
+
+`Spring Boot` · `REST APIs`
+
+</td>
+<td align="center" width="33%">
+
+### ☕
+
+**JAVA**
+
+`Java` · `OOP`
+
+`DSA` · `Spring Boot`
+
+</td>
+<td align="center" width="33%">
+
+### 🧠
+
+**AI / ML**
+
+`Python` · `NLP`
+
+`Computer Vision` · `ML`
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `> QUICK_PEEK_✦`
+
+</div>
+
+```yaml
+name: Naaz Parween
+education: B.Tech CSE @ Aliah University
+internship: AI/ML @ ISI Kolkata
+focus: Java | Full Stack | AI/ML
+motto: Small steps, big dreams ♡
+```
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+projects+with+curiosity...;Learning+something+new+every+day...;One+commit+at+a+time+🚀" />
+
+</div>
+
+---
+
+<div align="center">
+
+### `> THANK_YOU_FOR_VISITING ♡`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF79C6&center=true&vCenter=true&width=650&lines=Keep+Coding+%7C+Keep+Creating+%7C+Keep+Growing;See+you+in+the+next+commit...+👋" />
+
+<sub>Made with curiosity & lots of code ☕</sub>
+
+</div>
 ---
 
 <div align="center">
