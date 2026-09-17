@@ -1,9 +1,17 @@
-
 <div align="center">
+
+<!-- Animated GIF -->
+<img src="https://i.imgflip.com/9rfpor.gif"
+     width="100%"
+     alt="Animated GIF"/>
+
+<br/><br/>
 
 # 👋 Hi, I'm Naaz Parween
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+Developer;Full+Stack+Developer;AI%2FML+Enthusiast;Building+Ideas+Into+Reality+%F0%9F%92%9C" width="100%" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+Developer;Full+Stack+Developer;AI%2FML+Enthusiast;Building+Ideas+Into+Reality+%F0%9F%92%9C"
+     width="100%"
+     alt="Typing Animation"/>
 
 <p>
   <b>B.Tech CSE @ Aliah University</b>
@@ -23,10 +31,10 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=naaz297&label=Profile%20Views&color=00F7FF&style=flat" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=naaz297&label=Profile%20Views&color=00F7FF&style=flat"
+     alt="Profile Views"/>
 
 </div>
-
 ---
 
 ## 🧑‍💻 About Me
