@@ -166,7 +166,36 @@ Java • Spring Boot • REST APIs
 
 <!-- Animated Contribution Graph -->
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=naaz297&bg_color=0D1117&color=00F7FF&line=B57CFF&point=FF79C6&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
+name: 🐍 Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: naaz297
+          outputs: |
+            dist/github-contribution-grid-snake.svg?palette=github
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publish Animation
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BUILD_DIR: dist
 
 </div>
 
